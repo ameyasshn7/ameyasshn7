@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Software Developer for the Crop Science Department at Oregon State University, where I am helping researchers by providing new and innovative software solutions.
 - 🌱 I’m currently learning how to solve any problems that I find really interesting and challenging.
 - 📫 How to reach me: ameyasshn7@gmail.com
